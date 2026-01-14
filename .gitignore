@@ -53,3 +53,20 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+Release/
+Debug/
+settings/
+.settings/
+.plugins/
+.ide.log/
+BrowseInfo/
+Obj/
+.ninja_log
+
+*.dep
+*.log
+*.snap
+.metadata/
+*.launch
+.metadata/
